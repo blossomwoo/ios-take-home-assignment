@@ -1,3 +1,7 @@
+<img width="429" alt="Screen Shot 2021-04-29 at 11 56 02 AM" src="https://user-images.githubusercontent.com/420428/116526117-ec453a80-a8e1-11eb-9620-789172cdd900.png">
+
+
+
 # iOS Take Home Assignment
 
 Hey, hey! Welcome, developer! This repo contains your take home assignemnt for a iOS Engineer position at Gainy inc.
