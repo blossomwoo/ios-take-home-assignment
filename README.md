@@ -51,7 +51,7 @@ and display a list of tickers with
 2. ticker last price and ticker price change in the last 24 hours
 
 Notice that the HTTP point above does not return ticker price and price change. 
-To obtain this information you will need to call https://polygon.io/docs/get_v2_aggs_ticker__forexTicker__range__multiplier___timespan___from___to__anchor
+To obtain this information you will need to call https://polygon.io/docs/get_v2_aggs_ticker__stocksTicker__range__multiplier___timespan___from___to__anchor
 
 ## Screen 2: ticker details
 
@@ -64,7 +64,7 @@ On that screen user should see
 4. Ticker price, I.e. $200
 5. Ticker percentage day change, i.e. 3%
 
-To pull data for the price change graph use https://polygon.io/docs/get_v2_aggs_ticker__forexTicker__range__multiplier___timespan___from___to__anchor
+To pull data for the price change graph use https://polygon.io/docs/get_v2_aggs_ticker__stocksTicker__range__multiplier___timespan___from___to__anchor
 
 
 
