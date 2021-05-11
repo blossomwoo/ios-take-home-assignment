@@ -34,7 +34,9 @@ You will write a simple stock tracking app with two screens
 
 ## Prerequisites
 
-## Popligon.io API key
+## Poplygon.io API key
+
+### Important: Poplygon's API has 5 req/min rate. Be sure to copy JSON locally for development. 
 
 To accomplish this task you will need an API key from Poligon.io website. Don't worry this only takes few minutes.
 
